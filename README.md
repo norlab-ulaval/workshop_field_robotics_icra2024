@@ -8,7 +8,7 @@ We received many contributions, out of which the accepted papers are listed in t
 The workshop was the most crowded room of the day, demonstrating a clear need for field roboticists to gather and share experiences and lessons learned.
 
 <h3 style="text-align:center;">
-     <a href="https://norlab-ulaval.github.io/icra_workshop_field_robotics/">Link to the 2025 edition</a>
+     <a href="https://norlab-ulaval.github.io/icra_workshop_field_robotics/">Link to the current edition</a>
 </h3>
 
 # Accepted papers
